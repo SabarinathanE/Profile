@@ -1,13 +1,13 @@
 .title{
     text-align: center;
-    counter-reset: #212EA0;
+    color: #212EA0;
     font-size: 15px;
     font-weight: 600;
     text-transform: uppercase;
     margin: 70px 0 30px;
 }
 
-.title{
+.title h2{
     font-size: 32px;
     color: #000F38;
     margin-top: 5px;
